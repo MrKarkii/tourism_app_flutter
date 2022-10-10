@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mustang",
+    "description":"The district is a part of Gandaki Province in northern Nepal, straddles the Himalayas and extends northward onto the Tibetan Plateau. The district is one of the remotest areas in Nepal and is second in terms of the sparsity of population.[3] The elevation ranges from 1,372 to 8,167 meters (Mount Dhaulagiri, the 7th highest mountain in the world), with several peaks above 7,000 meters.",
+    "price": 1200,
+    "stars": 2,
+    "people": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kali_Gandaki_Valley%2C_Road%2C_Mustang%2C_Nepal%2C_Himalaya.jpg/1920px-Kali_Gandaki_Valley%2C_Road%2C_Mustang%2C_Nepal%2C_Himalaya.jpg",
+    "location": "Nepal,Upper Mustang"
+  },
+  {
+    "id": 2,
+    "name": "Annapurna Himal",
+    "description":"Annapurna, Nepali Annapurna Himal, massif of the Himalayas in north-central Nepal. It forms a ridge some 30 miles (48 km) long between the gorges of the Kali (Kali Gandak; west) and Marsyandi (east) rivers north of the town of Pokhara. The massif contains four main summits, two of which—Annapurna I (26,545 feet [8,091 metres]) and II (26,040 feet [7,937 metres])—stand at the western and eastern ends of the range, respectively; Annapurna III (24,786 feet [7,555 metres]) and IV (24,688 feet [7,525 metres]) lie between them.",
+    "price": 1500,
+    "stars": 2,
+    "people": 5,
+    "img":"https://cdn.britannica.com/05/58605-050-86F58113/Annapurna-massif-village-Nepal.jpg",
+    "location": "Nepal,Annapurna Masif"
+  },
+  {
+    "id": 3,
+    "name": "Illam",
+    "description":"Ilam is one of the most developed places in Nepal. Ilam stretches from the Terai belt to the upper hilly belt of the country. It is a small hill town with pristine landscapes of sloped tea gardens, mountain streams, dense natural forests, holy sites and unique culture. Illam is the headquarters of the Illam district. The name Ilam is derived from the Kirant language in which ‘IL’ means twisted and ‘Lam’ means road. Elevations in Ilam district range between 140 m to 3,636 m above sea level. Famously Illam is known for its tea i.e Illam tea. This tea is exported to many parts of Europe. The tea farm has been able to attract many of the domestic and international tourists. Greenery is all over the hills of Illam all around the year.Illam is not only famous for tea gardens, but there are also many other famous things that Illam produces. Aalaichi (cardamom), Amriso (a special plant used to make broom), Akabare (a special chili), Aduwaa (ginger), Pahade Aalu (hill Potato) and Chhurpi (a special preserved cheese product). All these products are sold all over the country and are also exported in the international market. Also, Illam attracts many researchers who come to study rare birds and red panda. Here are some of the famous places to visit when exploring the city.",
+    "price": 1200,
+    "stars": 2,
+    "people": 5,
+    "img":"https://nepaltraveller.com/uploads/destination/illam.jpg",
+    "location": "Nepal,Illam"
+  },
+  {
+    "id": 4,
+    "name": "Pokhara",
+    "description":"In recent decades, Pokhara has become a major tourist destination: it is considered the tourism capital of Nepal,mainly for adventure tourism and the base for the famous Annapurna Circuit trek. Thus, a major contribution to the local economy is made by the tourism and hospitalities industry. Tourism is the primary source of income for local people and the city.There are two 5-star hotels and approximately 305 other hotels that includes one 4-star, five 3-star, fifteen 2-star and non-star hotels in the city.",
+    "price": 1800,
+    "stars": 5,
+    "people": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Pokhara-valley-nepal.jpg",
+    "location": "Nepal,Pokhara"
+  }
+]
+
+
